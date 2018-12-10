@@ -53,5 +53,3 @@ defmodule Polymer do
     |> List.first()
   end
 end
-
-# 11136 too high
